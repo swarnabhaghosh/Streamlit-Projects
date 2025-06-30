@@ -1,0 +1,11 @@
+[project]
+name = "age-calculator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datetime>=5.5",
+    "python-dateutil>=2.9.0.post0",
+    "streamlit>=1.46.1",
+]
